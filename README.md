@@ -23,5 +23,5 @@ This schema is designed to analyze hospital operations and patient care.
 
 ---
 
-👩‍💻 Author: Harika  
+👩‍💻 Author: Rupa Devi
 📌 Tools used: MySQL Workbench, PowerPoint
